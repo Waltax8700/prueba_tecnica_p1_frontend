@@ -55,7 +55,7 @@ export default {
     }
   },
   mounted() {
-    fetch('http://localhost:8000/api/equipos')
+    fetch('http://185.241.151.197:8000/api/equipos')
       .then(response => response.json())
       .then(data => {
         this.equipos = data.data;
