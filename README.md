@@ -1,24 +1,24 @@
 # prueba_tecnica_p1_frontend
 
-## Project setup
+Este proyecto corresponde al **frontend** de la prueba técnica, desarrollado con **Vue.js**.
+
+## Requisitos
+- Node.js
+- npm
+
+
+## Clonar el repositorio
+```bash
+git clone <URL_DEL_REPOSITORIO>
+cd prueba_tecnica_p1_frontend
+```
+
+## Instalación del proyecto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Para ejecutar el repositorio
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
